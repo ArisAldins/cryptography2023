@@ -2,7 +2,7 @@
 
 # MD1 - OTP python script
 
-Skripts ir palaižams caur win cmd.
+Skripts ir palaižams uz python3 caur win cmd.
 
 Lietošanas piemērs:
 
